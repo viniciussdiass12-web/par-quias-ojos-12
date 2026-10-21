@@ -26,7 +26,7 @@ h1 {
 }
 p {
     color: #000000;
-    font-size: 1.1em;
+    font-size: 0.9em;
 }
 button {
     background-color: #1d0460;
@@ -40,4 +40,4 @@ button {
     margin-top: 10px;
 }
 button:hover {
-    background-color: #A34743;}
+    background-color: #000000;}
